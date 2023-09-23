@@ -39,7 +39,7 @@ This project is the culmination of a full-stack course, demonstrating the integr
 
 
 ## Link 
-https://volindo-project-xz4u.onrender.com/
+https://volindo-project-xz4u.onrender.com
 
 
 ## Project Screenshots
