@@ -11,10 +11,10 @@ module.exports = {
 
           // Determine file URL based on mimetype
           if (file.mimetype.startsWith("image/")) {
-            fileURL = "https://volindo-back.onrender.com/uploads/images/" + file.filename;
+            fileURL = "http://localhost:4000/uploads/images/" + file.filename;
             console.log(fileURL);
           } else if (file.mimetype.startsWith("video/")) {
-            fileURL = "https://volindo-back.onrender.com/uploads/videos/" + file.filename;
+            fileURL = "http://localhost:4000/uploads/videos/" + file.filename;
             console.log(fileURL);
           } else {
             // You can either reject other file types or define a default path
