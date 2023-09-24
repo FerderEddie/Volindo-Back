@@ -36,6 +36,9 @@ The Volindo-AD-Manager is a comprehensive platform for travel agents to effortle
 ## Project Overview
 
 This project is the culmination of a full-stack course, demonstrating the integration of various technologies and skills in a Single Page Application (SPA) that offers a seamless and interactive user experience.
+<br/><br/>
+In Addition, this project was developed for "Volindo" company according to their requirements.
+
 
 
 ## Link 
