@@ -1,9 +1,17 @@
 # Volindo-Back
 # Volindo-AD-Manager
 
+## Project Overview
+
+**This project is the culmination of a full-stack course, demonstrating the integration of various technologies and skills in a Single Page Application (SPA) that offers a seamless and interactive user experience.**
+<br/><br/>
+**In Addition, this project was developed for "Volindo" company according to their requirements.**
+
+#
+
 **Development and Design of a Dynamic Marketing Campaign Management Interface for Travel Agents**
 
-The Volindo-AD-Manager is a comprehensive platform for travel agents to effortlessly create and manage their marketing campaigns. It offers a user-friendly dynamic form with a wide range of features to streamline the campaign creation process.
+**The Volindo-AD-Manager is a comprehensive platform for travel agents to effortlessly create and manage their marketing campaigns. It offers a user-friendly dynamic form with a wide range of features to streamline the campaign creation process.**
 
 ## Key Features
 
@@ -32,13 +40,6 @@ The Volindo-AD-Manager is a comprehensive platform for travel agents to effortle
 
 - **Front-End:** React, JavaScript, Chakra UI, HTML5/CSS3.
 - **Back-End:** Node.js, Express.js, MongoDB.
-
-## Project Overview
-
-This project is the culmination of a full-stack course, demonstrating the integration of various technologies and skills in a Single Page Application (SPA) that offers a seamless and interactive user experience.
-<br/><br/>
-In Addition, this project was developed for "Volindo" company according to their requirements.
-
 
 
 ## Link 
